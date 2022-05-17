@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinNtaiveBridge.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinNtaiveBridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kotlinNtaiveBridge.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kotlinNtaiveBridge.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-586900410/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-586900410/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
